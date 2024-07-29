@@ -1,0 +1,1 @@
+An unfinished school project with a colleague. In which I was responsible for the front-end. Unfortunately, due to the merging of front-end with back-end a few hours before deadline, it came out poor and a mess. Nevertheless, I plan to complete the project with my own back-end.
